@@ -7,4 +7,5 @@ harika, bazı kodlar yazdım.
   farklı kodlar yazdım.
 
   bazı çalışmalar yaptım.
+  localde conflict olursa
 
