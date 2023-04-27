@@ -3,3 +3,4 @@ harika, bazı kodlar yazdım.
 
 
   yeni kodlar ekledim.
+  farklı kodlar yazdım.
